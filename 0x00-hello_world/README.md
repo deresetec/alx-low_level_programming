@@ -1,1 +1,1 @@
-Hello puts
+printf function
