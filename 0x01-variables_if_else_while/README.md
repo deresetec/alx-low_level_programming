@@ -1,1 +1,1 @@
-Print 10 digit numbers
+print number without printf and put
