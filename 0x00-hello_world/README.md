@@ -1,1 +1,1 @@
-No printf and put
+Size of data type
