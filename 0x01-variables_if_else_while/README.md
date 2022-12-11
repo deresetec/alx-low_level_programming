@@ -1,1 +1,1 @@
-Lastdigit
+Print alphabet
