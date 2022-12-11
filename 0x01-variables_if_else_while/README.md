@@ -1,1 +1,1 @@
-Print alphabet
+Lower case exept q and e
