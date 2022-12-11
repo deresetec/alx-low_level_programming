@@ -1,1 +1,1 @@
-Lower case exept q and e
+Print 10 digit numbers
