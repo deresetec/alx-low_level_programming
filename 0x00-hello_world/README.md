@@ -1,1 +1,1 @@
-Intel
+No printf and put
