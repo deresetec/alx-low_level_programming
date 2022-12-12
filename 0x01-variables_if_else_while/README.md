@@ -1,1 +1,1 @@
-Print three combinations of digits
+Combination5
