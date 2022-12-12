@@ -1,1 +1,1 @@
-Combination2
+Print three combinations of digits
