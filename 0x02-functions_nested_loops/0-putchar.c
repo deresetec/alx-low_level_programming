@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-       char c[] = "_putcar";
+       char c[] = "main";
        int i;
 
 for (i = 0; i< 9; i++)
