@@ -1,1 +1,1 @@
-10x alphabet
+_putchar
