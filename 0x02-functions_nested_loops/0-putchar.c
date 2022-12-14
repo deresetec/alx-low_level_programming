@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.c"
 
 /**
  * main - prints _putcar
@@ -6,7 +6,7 @@
  */
 int main(void)
 {
-       char c[];
+       char c[] = "_putchar";
        int i;
 
 for (i = 0; i< 9; i++)
