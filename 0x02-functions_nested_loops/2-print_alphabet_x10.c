@@ -1,11 +1,3 @@
-lphabet_x10.c CODE
-
-
-
-
-
-
-
 #include "main.h"
 
 /**
