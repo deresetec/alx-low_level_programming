@@ -1,1 +1,1 @@
-10xalphabet
+print alpahabet
