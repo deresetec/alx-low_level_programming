@@ -1,1 +1,1 @@
-print alpahabet
+check lowercase
