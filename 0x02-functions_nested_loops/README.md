@@ -1,1 +1,1 @@
-10xalphabet
+lowercase alphabet
