@@ -1,1 +1,1 @@
-absolute value of intiger
+Last digit of
