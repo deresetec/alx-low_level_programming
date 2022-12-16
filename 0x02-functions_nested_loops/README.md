@@ -1,1 +1,1 @@
-Check alphabetic character
++-or0
