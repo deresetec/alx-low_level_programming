@@ -1,1 +1,1 @@
-Print alphabet 10x
+Check alphabetic character
