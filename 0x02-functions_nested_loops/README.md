@@ -1,1 +1,1 @@
-24hr
+Time-table
