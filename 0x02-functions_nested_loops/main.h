@@ -25,7 +25,7 @@ int print_last_digit(int);
 
 void jack_bauer(void);
 
-void time_teble(void);
+void times_teble(void);
 
 int add(int, int);
 
