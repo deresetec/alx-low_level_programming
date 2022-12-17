@@ -1,11 +1,11 @@
 #include "main.h"
 
 /**
- * print_time_table - prints the time table for n.
+ * print_times_table - prints the time table for n.
  *
  * Return: Nothing.
  */
-void print_time_table(int n)
+void print_times_table(int n)
 {
 		int i, j, res;
 
