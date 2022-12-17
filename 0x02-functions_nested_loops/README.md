@@ -1,1 +1,1 @@
-Print n-98
+Time table nx
